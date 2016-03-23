@@ -21,3 +21,6 @@ $ npm i -d && npm test
 ## Author
 
 **Dusan Vesic**
+
+
+* [github/vesic](https://github.com/vesic)

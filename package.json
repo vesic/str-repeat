@@ -1,7 +1,7 @@
 {
   "name": "str-repeat",
-  "version": "1.0.0",
-  "description": "## Usage",
+  "version": "1.0.1",
+  "description": "Function to create a new string from a repeated substring.",
   "main": "index.js",
   "scripts": {
     "test": "./node_modules/.bin/mocha test.js"
