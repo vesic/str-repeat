@@ -1,0 +1,23 @@
+{
+  "name": "str-repeat",
+  "version": "1.0.0",
+  "description": "## Usage",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vesic/str-repeat.git"
+  },
+  "author": "dusan vesic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vesic/str-repeat/issues"
+  },
+  "homepage": "https://github.com/vesic/str-repeat#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  }
+}
